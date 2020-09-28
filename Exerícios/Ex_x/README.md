@@ -1,2 +1,2 @@
 # Enunciado do Exercício 
-Manter esse padrão de um arquivo com o enunciado e outro com o código.
+Esse é o padrão a ser seguido. Dentro da pasta exercício, vai ter uma pasta para cada exercício que for feito, tendo um arquivo README.md com o enunciado e outro com o código na linugagem que preferirem.
