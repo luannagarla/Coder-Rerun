@@ -3,7 +3,9 @@ Códigos feitos durante o evento Coder Rerun 2020 promovida pelo ramo estudantil
 
 Realizado pela plataforma URI disponível em: https://www.urionlinejudge.com.br/judge/en/challenges/contest/533
 
-![LOGO]()
+#### Mais informações: https://www.ieeeuel.org/coderrerun
+
+![logo](imagens/logo.png)
 
 # Problemas
 - [X] Jogo Dos Copos		
