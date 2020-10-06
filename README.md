@@ -5,7 +5,7 @@ Realizado pela plataforma URI disponível em: https://www.urionlinejudge.com.br/
 
 #### Mais informações: https://www.ieeeuel.org/coderrerun
 
-![logo](imagens/logo.png)
+![logo](Imagens/logo.png)
 
 # Problemas
 - [X] Jogo Dos Copos		
