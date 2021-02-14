@@ -1,5 +1,5 @@
 # Coder Rerun
-Codes made during the Coder Rerun 2020 event promoted by IEEE - UEL. Held on October 3 from 2 pm to 6:30 pm, through the URI platform. 
+Here you can find the codes me and my team made during the Coder Rerun 2020, an event promoted by IEEE - UEL. Hosted on October 3th from 2 pm to 6:30 pm, using the URI platform.
 
 ### <a href="https://www.ieeeuel.org/coderrerun">Click here for more information about the event</a>
 
